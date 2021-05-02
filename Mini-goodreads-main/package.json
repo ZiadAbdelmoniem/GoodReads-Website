@@ -1,0 +1,27 @@
+{
+  "name": "team-67",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.16.4",
+    "express-session": "^1.17.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badrannn/team-67.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badrannn/team-67/issues"
+  },
+  "homepage": "https://github.com/badrannn/team-67#readme"
+}
